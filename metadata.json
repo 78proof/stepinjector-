@@ -1,0 +1,6 @@
+{
+  "name": "Step Injector",
+  "description": "Writes realistic randomized step, distance, and calorie data into Health Connect for testing fitness apps over months, with scheduling, backfill, and data viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
